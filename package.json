@@ -1,0 +1,23 @@
+{
+  "name": "docker_node_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "MMA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ande1mat/node_project.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ande1mat/node_project/issues"
+  },
+  "homepage": "https://github.com/ande1mat/node_project#readme"
+}
